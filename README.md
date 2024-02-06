@@ -39,4 +39,5 @@
 
 <!--
 [서버팀.zip](https://github.com/minzy6162/SSUGFI_DOG/files/14180199/default.zip)
+[SSU프로젝트.pdf](https://github.com/minzy6162/SSUGFI_DOG/files/14180243/SSU.pdf)
 -->
