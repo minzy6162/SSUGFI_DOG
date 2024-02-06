@@ -23,6 +23,14 @@
 ## 개발 기간 및 기술
   - 전체 개발 기간 : 2023.7 ~ 2023.8
   - 협업 툴 : Notion
+    ### 장치개발
+    ARDUINO, WIFI, JSON, Bluetooth
+
+    ### 서버
+    MySQL, JSON, JSP 
+
+    ### 클라이언트
+    Figma, JSON, Android
 
 
 
